@@ -149,12 +149,11 @@ while (i < 5) {
 These edge case questions can help test a more in-depth understanding of JavaScript concepts and potential pitfalls.
 
 ### 1.5. Code Snippets
-```javascript
+```
 // Example code snippets for basic JavaScript tasks
 // Add your code examples here
+```
 ---
-
-Here's the continuation of the JavaScript Functions section with the added edge case questions:
 
 ## 2. JavaScript Functions
 This section covers function declarations, function expressions, arrow functions, and more.
