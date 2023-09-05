@@ -1,3 +1,7 @@
+# JavaScript - Interview Questions with Answers
+
+## All Edge Case Questions with Answers Lnks to this Repository: [JavaScript-Edge-Case-Questions-Practices](https://github.com/NarendraKoya999/JavaScript-Edge-Case-Questions-Practices/)
+
 ## 1. JavaScript Basics
 This section covers fundamental JavaScript concepts, such as data types, variables, operators, and basic control structures.
 
